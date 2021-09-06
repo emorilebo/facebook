@@ -7,24 +7,24 @@ const stories = [
     profile: "/emori.jpeg",
   },
   {
-    name: "Elon Musk",
-    src: "https://links.papareact.com/4zn",
-    profile: "https://links.papareact.com/kxk",
+    name: "David Okoruwa",
+    src: "/david-src.jpg",
+    profile: "/david-profile.jpg",
   },
   {
-    name: "Jeff Bezoz",
-    src: "https://links.papareact.com/k2j",
-    profile: "https://links.papareact.com/f0p",
+    name: "Frankline Ukpata",
+    src: "/frankline-src.jpg",
+    profile: "/frankline-profile.jpg",
   },
   {
-    name: "Mark Zuckerberg",
-    src: "https://links.papareact.com/xql",
-    profile: "https://links.papareact.com/snf",
+    name: "Ahmed Sani",
+    src: "/ahmed-src.jpg",
+    profile: "/ahmed-profile.jpg",
   },
   {
-    name: "Bill Gates",
-    src: "https://links.papareact.com/4u4",
-    profile: "https://links.papareact.com/zvy",
+    name: "Michael Enyam",
+    src: "/mike-src.jpg",
+    profile: "/mike-profile.jpg",
   },
 ];
 
